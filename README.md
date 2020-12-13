@@ -9,6 +9,7 @@
 training_input.txt
 
 test_input.txt
+
 <br>
 
 <h3>Output</h3>
@@ -40,9 +41,8 @@ training_input_code.hbs
 
 test_input_code.hbs
 
-
-<br><hr>
-<h1>Output</h1>
+<br>
+<h3>Output</h3>
 
 training_output.txt
 
@@ -51,7 +51,8 @@ test_output.txt
 <hr>
 <br><br><br>
 
-<h3>Context adaptive Huffman table (part)</h3>
+<hr>
+<h1>Context adaptive Huffman table (part)</h1>
 
 ![image](https://user-images.githubusercontent.com/37769713/102015825-313c5a80-3da1-11eb-8c5e-8beb0bb8ba6c.png)
 
