@@ -54,6 +54,8 @@ test_output.txt
 <hr>
 <h1>Context adaptive Huffman table (part)</h1>
 
+Characters - Frequency - Codeword
+
 ![image](https://user-images.githubusercontent.com/37769713/102015825-313c5a80-3da1-11eb-8c5e-8beb0bb8ba6c.png)
 
 <hr>
